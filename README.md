@@ -59,3 +59,4 @@ sentiment-analysis/
 - **Name:** Abdul Wasay
 - **Department:** Software Engineering
 - **Subject:** Artificial Intelligence
+- **Teacher:** Sir Rafique Ahmed Bhutto
