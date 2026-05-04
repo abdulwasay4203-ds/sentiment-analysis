@@ -55,6 +55,7 @@ sentiment-analysis/
 
 ## Submitted By
 
-- **Name:** [Your Name]
-- **Year:** 3rd Year
-- **Subject:** Natural Language Processing
+- **Roll No:** 2K24/SWEE/5
+- **Name:** Abdul Wasay
+- **Department:** Software Engineering
+- **Subject:** Artificial Intelligence
